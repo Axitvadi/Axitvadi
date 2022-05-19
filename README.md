@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Axitvadi
+- 👋 Hi, I’m Axit vadi
 - 👀 I’m interested in web development
 - 📫 If you have any info that would help, please contact me at my email address: axitvadi@gmail.com
 
