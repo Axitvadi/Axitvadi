@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Axit vadi
-- 👀 I’m interested in web development
+- 👀 I work with Node.js and its other frameworks such as express, nest js, adonis, and fastify.
 - 📫 If you have any info that would help, please contact me at my email address: axitvadi@gmail.com
 
 <!---
