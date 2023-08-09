@@ -60,7 +60,7 @@
 
 ### 🌐 Connect with me:
 
-[LinkedIn!](https://www.linkedin.com/in/axit-vadi-603944225)  
-[Email!](mailto:axitvadi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/axit-vadi-603944225)  
+[Email](mailto:axitvadi@gmail.com)
 
 Fueling innovation one line of code at a time. Let's collaborate and create something spectacular! ✨
