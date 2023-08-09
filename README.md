@@ -55,8 +55,8 @@
 
 ### 🏆 Certifications:
 
-NodeJS - The Complete Guide (By Academind)
-Certified Node.js Tutor (By Oscar Career Point)
+**NodeJS** - The Complete Guide (By Academind)  
+**Certified Node.js Tutor** - By Oscar Career Point
 
 ### 🌐 Connect with me:
 
