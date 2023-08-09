@@ -1,18 +1,18 @@
-👋 Hi there! I'm Axit Vadi, a seasoned Node.js Developer | Software Engineer with a knack for crafting robust, scalable, and innovative solutions.
+👋 Hi there! I'm **Axit Vadi**, a seasoned Node.js Developer | Software Engineer with a knack for crafting robust, scalable, and innovative solutions.
 
 ### 🛠 Technical Stack:
 
-Languages: JavaScript, TypeScript, HTML, CSS
-Frameworks: ExpressJS, NestJS, Fastify, AdonisJS, Bootstrap, JQuery
-Databases: MongoDB, PostgreSQL, MySQL, MSSQL, Redis, SQLite, MariaDB, Amazon DynamoDB, Firebase Realtime Database
-Payment Gateways: Stripe, PayPal, Razorpay, Paytm
-Email Services: SendGrid, Mailgun, Amazon SES, Mailchimp
-Storage Services: S3, Azure Blob, Google Cloud Storage
-External APIs: Whatsapp Cloud, IBKR
-Real-Time Communication: Socket.io
-Serverless Architectures: AWS Lambda, Amplify, DynamoDB
-Containerization: Docker
-Chatbots: Developed Whatsapp chatbots using Node.js
+**Languages**: JavaScript, TypeScript, HTML, CSS
+**Frameworks**: ExpressJS, NestJS, Fastify, AdonisJS, Bootstrap, JQuery
+**Databases**: MongoDB, PostgreSQL, MySQL, MSSQL, Redis, SQLite, MariaDB, Amazon DynamoDB, Firebase Realtime Database
+**Payment Gateways**: Stripe, PayPal, Razorpay, Paytm
+**Email Services**: SendGrid, Mailgun, Amazon SES, Mailchimp
+**Storage Services**: S3, Azure Blob, Google Cloud Storage
+**External APIs**: Whatsapp Cloud, IBKR
+**Real-Time Communication**: Socket.io
+**Serverless Architectures**: AWS Lambda, Amplify, DynamoDB
+**Containerization**: Docker
+**Chatbots**: Developed Whatsapp chatbots using Node.js
 
 ### 📈 Project Highlights:
 
