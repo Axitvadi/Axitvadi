@@ -2,10 +2,12 @@
 
 ### 🛠 Technical Stack:
 
-**Languages**: JavaScript, TypeScript, HTML, CSS
+**Languages**: JavaScript, TypeScript
+
+**Frontend languages and Frameworks**: HTML, Css, Bootstrap, Jquery, React, Next.js 
 
 
-**Frameworks**: ExpressJS, NestJS, Fastify, AdonisJS, Bootstrap, JQuery
+**Backend Nodejs Frameworks**: ExpressJS, NestJS, Fastify, AdonisJS
 
 
 **Databases**: MongoDB, PostgreSQL, MySQL, MSSQL, Redis, SQLite, MariaDB, Amazon DynamoDB, Firebase Realtime Database
