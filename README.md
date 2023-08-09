@@ -1,6 +1,6 @@
 👋 Hi there! I'm Axit Vadi, a seasoned Node.js Developer with a knack for crafting robust, scalable, and innovative solutions.
 
-🛠 Technical Stack:
+###🛠 Technical Stack:
 
 Languages: JavaScript, TypeScript, HTML, CSS
 Frameworks: ExpressJS, NestJS, Fastify, AdonisJS, Bootstrap, JQuery
@@ -13,7 +13,8 @@ Real-Time Communication: Socket.io
 Serverless Architectures: AWS Lambda, Amplify, DynamoDB
 Containerization: Docker
 Chatbots: Developed Whatsapp chatbots using Node.js
-📈 Project Highlights:
+
+###📈 Project Highlights:
 
 E-Commerce: Developed a backend infrastructure to support seamless online transactions using MongoDB, ExpressJs, SendGrid, and DHL integrations.
 EV Solutions: Created real-time backend communication between charging stations and users using AdonisJS and PostgreSQL.
