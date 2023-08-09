@@ -36,22 +36,22 @@
 
 ### 📈 Project Highlights:
 
-E-Commerce: Developed a backend infrastructure to support seamless online transactions using MongoDB, ExpressJs, SendGrid, and DHL integrations.
+**E-Commerce**: Developed a backend infrastructure to support seamless online transactions using MongoDB, ExpressJs, SendGrid, and DHL integrations.
 
 
-EV Solutions: Created real-time backend communication between charging stations and users using AdonisJS and PostgreSQL.
+**EV Solutions**: Created real-time backend communication between charging stations and users using AdonisJS and PostgreSQL.
 
 
-Chat & Media App: Implemented a real-time messaging system with added image/video processing capabilities using Socket.io, ExpressJS, and MongoDB.
+**Chat & Media App**: Implemented a real-time messaging system with added image/video processing capabilities using Socket.io, ExpressJS, and MongoDB.
 
 
-Financial Platform: Built a microservices-driven trading application integrating GraphQL, MailChimp, and Twillio, facilitating Demat account creations and trade functionalities.
+**Financial Platform**: Built a microservices-driven trading application integrating GraphQL, MailChimp, and Twillio, facilitating Demat account creations and trade functionalities.
 
 
-Serverless Web Apps: Leveraged AWS Lambda, Amplify, and DynamoDB to design and deploy scalable and cost-effective applications.
+**Serverless Web Apps**: Leveraged AWS Lambda, Amplify, and DynamoDB to design and deploy scalable and cost-effective applications.
 
 
-Chatbots: Designed a responsive Whatsapp chatbot using Node.js to enhance user engagement and automate responses.
+**Chatbots**: Designed a responsive Whatsapp chatbot using Node.js to enhance user engagement and automate responses.
 
 ### 🏆 Certifications:
 
@@ -60,7 +60,7 @@ Certified Node.js Tutor (By Oscar Career Point)
 
 ### 🌐 Connect with me:
 
-![LinkedIn](www.linkedin.com/in/axit-vadi-603944225)
-![Email](axitvadi@gmail.com)
+[LinkedIn!](www.linkedin.com/in/axit-vadi-603944225)  
+[Email!](axitvadi@gmail.com)
 
 Fueling innovation one line of code at a time. Let's collaborate and create something spectacular! ✨
